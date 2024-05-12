@@ -74,7 +74,7 @@ int main() {
 ```
 ##OUTPUT
 ![ex2op2](https://github.com/Rithviknathan/Linux-Process-API-fork-wait-exec/assets/148410509/35b6b244-abcd-416f-ba48-73bbbd8c61b8)
-## C Program to execute Linux system commands using Linux API system calls exec() family
+## C Program to execute Linux system commands using Linux API system calls exec() famil
 ```
 #include <stdio.h>
 #include <stdlib.h>
