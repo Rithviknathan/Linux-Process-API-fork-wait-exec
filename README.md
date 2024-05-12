@@ -105,6 +105,7 @@ int main() {
 }
 ```
 ##OUTPUT
+
 ![ex2op3](https://github.com/Rithviknathan/Linux-Process-API-fork-wait-exec/assets/148410509/6b19e24e-f78b-41d6-852f-1a8dcc9f3b5e)
 # RESULT:
 The programs are executed successfully.
